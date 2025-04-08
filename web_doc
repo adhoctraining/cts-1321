@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build a Simple Webpage</title>
+    <style>
+        body {
+            margin: 50px 200px;
+            background-image: url('image1.jpg');
+            background-size: cover;
+            color: white;
+        }
+        
+        h1 {
+            color: white;
+        }
+        
+        hr {
+            border: 1px solid white;
+        }
+    </style>
+</head>
+<body>
+
+<p> 
+<font color="#ffffff">
+<a href="#">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#">Contacts</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font>
+</p>
+</br>
+    <h1>Build a Simple Webpage</h1>
+    <hr>
+
+    <p>This is the first paragraph of the simple webpage. It demonstrates how you can build a webpage using just HTML without any CSS. The layout is basic, and all styling is limited to default browser settings.</p>
+
+    <p>The second paragraph provides additional content. By using different HTML tags, you can structure the content on the page. Here, we're using basic paragraph tags to display text.</p>
+
+    <p>Finally, this is the third paragraph. Webpages can include many different elements such as headings, paragraphs, images, and links. This example sticks to simple HTML to show the fundamental structure of a webpage.</p>
+
+</body>
+</html>
